@@ -6,7 +6,7 @@ Dasturlashda Encapsulation <i>(yoki inkapsulyatsiya)</i> classlarga bir xil umum
 
 Inkapsulyatsiya object ichidagi ma'lumotlarning to'g'ridan to'g'ri ochiq holatda qolib ketmasligini, faqatgina maxsus va shu objectning ichida mavjud bo'lgan methodlar orqaligina undan foydalana olish xususiyatini ta'minlaydi. Bu o'zgaruvchilardan ruxsatsiz foydalanishni cheklashga yordam beradi.
 
-JavaScript-da inkapsulyatsiyani `class` yordamida va `public` va `private` kabi access modifikatorlaridan foydalanish orqali ko'rsatish mumkin:
+JavaScript-da inkapsulyatsiyani `class` yordamida va `public` va `private` kabi access modifikatorlaridan foydalanish orqali ko'rsatish mumkin: 
 
 ```javascript
 class Person {
