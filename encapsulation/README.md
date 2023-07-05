@@ -1,6 +1,6 @@
 ### Encapsulation nimani anglatadi?
 
-<img src="./encapsulation-image.jpg">
+<img src="./encapsulation-image.jpg" style="width: 100%;">
 
 Dasturlashda Encapsulation <i>(yoki inkapsulyatsiya)</i> classlarga bir xil umumiylikga ega bo'lgan property va methodlarni joylashtirish tushuniladi. Inkapsulyatsiya ortidagi asosiy g'oya objectning ichki holatiga **to'g'ridan-to'g'ri kirishni cheklash** va aniq belgilangan interfeyslar orqali boshqariladigan kirishni ta'minlashdir. Bu tamoyil ma'lumotlar yaxlitligiga, kod modulligiga va <a href="#">abstraktsiyaga</a> erishishga yordam beradi.
 
