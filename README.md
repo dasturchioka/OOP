@@ -34,8 +34,8 @@ Tepadagi misol kabi yangi class yaratmoqchi bo’lganimizda har doim `class` key
 OOP da asosan 4 ta prinsip mavjud:
 
 <ul>
-    <li><a href="./encapsulation/README.md">Polymorphism</a></li>
+    <li><a href="./encapsulation/README.md">Encapsulation</a></li>
     <li><a href="#">Inheritance</a></li>
-    <li><a href="#">Encapsulation</a></li>
+    <li><a href="#">Polymorphism</a></li>
     <li><a href="#">Abstraction</a></li>
 </ul>
