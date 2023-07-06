@@ -1,6 +1,6 @@
 ### Inheritance nimani anglatadi?
 
-  <img src="./inhertiance-image.jpg" style="width: 100%;">
+<img src="./inhertiance-image.jpg" style="width: 100%;">
 
 Inheritance bu ma'lum bir classning boshqa bir classga parent element sifatida rol o'ynab, unga o'zida bor bo'lgan strukturani to'liqligicha yoki ma'lum miqdorda **meros** sifatida o'tkazish demakdir. Ya'ni dasturlashda objectlar o'zidagi strukturani boshqa bir objectdan inherit qilib olish imkoniyatiga ham egadirlar. Bu tamoyil classlar orasida o'zaro <a href="https://dev.to/manomite/what-is-hierarchy-in-programming-5f7o">hierarchical</a> ko'rinishidagi bog'liqlikni ta'minlaydi.
 
