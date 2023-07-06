@@ -8,6 +8,10 @@ Yanayam soddaroq tushundiradigan bo’lsak, bu ma’lum bir objectning boshqa bi
 
 Misol uchun erkak. Erkak bir vaqtning o’zida ham ishchi, ham ota va ham er bo’lishi kerak. Bu **Erkaklik** degan umumiy tushunchaga xos bo’lgan xususiyatlardir, va har bir erkak shu umumiylikdan me’ros oladi.
 
+Yoki biron bir methodning mavjud objectlarda har xil vazifa bajarishi, misol uchun, parent classda mavjud bo'lgan methodni child class inherit qilib olishi va uni o'ziga mos yo'l bilan implementatsiya qilishi, overwrite qilishi tushuniladi.
+
+Xuddi tepadagi rasmdagidek. Hamma hayvonlar 'gapira' oladi, faqat boshqacha ohang va shakllar bilan.
+
 ```javascript
 class Animal {
   constructor(name) {
