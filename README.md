@@ -36,6 +36,6 @@ OOP da asosan 4 ta prinsip mavjud:
 <ul>
     <li><a href="./encapsulation/README.md">Encapsulation</a></li>
     <li><a href="./inheritance/README.md">Inheritance</a></li>
-    <li><a href="#">Polymorphism</a></li>
-    <li><a href="#">Abstraction</a></li>
+    <li><a href="./polymorphism/README.md">Polymorphism</a></li>
+    <li><a href="./abstraction/README.md">Abstraction</a></li>
 </ul>
